@@ -1,5 +1,4 @@
 # Personal Intro Landing Page — Checkpoint Submission
-
 ---
 
 ## 1. Steps Followed
@@ -27,13 +26,20 @@ Opened the exported project in VS Code to inspect and edit the generated code (`
 ### Step 5 — Manual improvement
 Made a manual improvement directly in the editor: adjusted the navigation bar into a pill-shaped nav, refined spacing/typography of the hero text, and added skill/certification badges ("CompTIA Security+", "Certified in Generative AI") below the subtitle — then verified the change locally via `127.0.0.1`.
 
-**🔴 Before:**
+![Manual improvement local preview](screenshots/05-manual-improvement-local-preview.png)
 
-![Before manual edit](screenshots/05-manual-improvement-local-preview.png)
+### Step 6 — Final preview (after manual improvements)
 
-### Step 6 — Final preview
-Verified the final, published version side-by-side with the Lovable editor tab.
+I verified the final version locally via `127.0.0.1` after applying my manual edits on top of the Lovable-generated page. Here's what I changed manually in the editor:
 
-![Final hosted preview](screenshots/06-final-hosted-preview.png)
+1. **New navigation bar** — I added a pill-shaped nav bar at the top (`Home / About Me / Work / Contact`), which didn't exist in the original Lovable version.
+2. **Certification badges** — I added two badges below the description: `✓ CompTIA Security+` and `✓ Certified in Generative AI`.
+3. **Redesigned background** — I replaced the simple gradient blob with a blue light-beam/cone shape over a subtle grid background.
+4. **Subtitle styling** — I added a `>` terminal/code-style prefix before "Frontend Developer", styled in purple.
+5. **Button color** — I changed the "View My Projects" button from a pink→blue gradient to a solid indigo/blue color.
+6. **Typography** — I switched key elements ("PROFILE · VERIFIED", ">Frontend Developer") to a monospace/code-style font for a more technical look.
+
+![Final preview after manual improvements](screenshots/06-final-hosted-preview.png)
 
 ---
+
