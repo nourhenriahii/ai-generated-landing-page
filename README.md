@@ -1,9 +1,5 @@
 # Personal Intro Landing Page — Checkpoint Submission
 
-**Author:** Nourhen Riahi
-**Tool used:** [Lovable](https://lovable.dev)
-**Goal:** Build a one-section personal intro landing page (hero header) showcasing name, role, and a "View My Projects" call-to-action.
-
 ---
 
 ## 1. Steps Followed
@@ -39,34 +35,3 @@ Verified the final, published version side-by-side with the Lovable editor tab.
 📸 `screenshots/06-final-hosted-preview.png`
 
 ---
-
-## 2. Page Content
-
-- **Name:** Nourhen Riahi
-- **Subtitle/Role:** Frontend Developer
-- **Description:** Building intelligent, secure solutions with modern web technologies.
-- **CTA Button:** "View My Projects →"
-- **Extras:** "Profile · Verified" eyebrow label, certification badges, animated gradient/particle background.
-
-## 3. Files in This Submission
-
-```
-submission/
-├── README.md
-└── screenshots/
-    ├── 01-lovable-prompt-and-first-generation.png
-    ├── 02-lovable-theme-customization.png
-    ├── 03-lovable-export-zip-download.png
-    ├── 04-vscode-exported-code.png
-    ├── 05-manual-improvement-local-preview.png
-    └── 06-final-hosted-preview.png
-```
-
-> ⚠️ Note: the exported `index.html` / `style.css` / `script.js` files themselves (from `nourhen-portfolio.zip`) are **not included yet** — only screenshots of them were provided. Add the actual exported files into an `/exported-code` folder before final submission so the grader can open the real HTML file, not just the screenshot.
-
-## 4. Tech Stack
-
-- Plain **HTML5**, **CSS3**, **JavaScript** (no frameworks, no Tailwind)
-- Built with **Lovable** (AI app builder)
-- Edited manually in **VS Code**
-# ai-generated-landing-page # ai-generated-landing-page
