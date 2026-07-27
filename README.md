@@ -26,9 +26,10 @@ Opened the exported project in VS Code to inspect and edit the generated code (`
 
 ### Step 5 — Manual improvement
 Made a manual improvement directly in the editor: adjusted the navigation bar into a pill-shaped nav, refined spacing/typography of the hero text, and added skill/certification badges ("CompTIA Security+", "Certified in Generative AI") below the subtitle — then verified the change locally via `127.0.0.1`.
-This before:
 
-![Manual improvement local preview](screenshots/05-manual-improvement-local-preview.png)
+**🔴 Before:**
+
+![Before manual edit](screenshots/05-manual-improvement-local-preview.png)
 
 ### Step 6 — Final preview
 Verified the final, published version side-by-side with the Lovable editor tab.
